@@ -1,0 +1,14 @@
+D:\ExerciciosFundamentos\bin\Debug\net9.0\ExerciciosFundamentos.exe
+D:\ExerciciosFundamentos\bin\Debug\net9.0\ExerciciosFundamentos.deps.json
+D:\ExerciciosFundamentos\bin\Debug\net9.0\ExerciciosFundamentos.runtimeconfig.json
+D:\ExerciciosFundamentos\bin\Debug\net9.0\ExerciciosFundamentos.dll
+D:\ExerciciosFundamentos\bin\Debug\net9.0\ExerciciosFundamentos.pdb
+D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.AssemblyInfoInputs.cache
+D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.AssemblyInfo.cs
+D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.csproj.CoreCompileInputs.cache
+D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.dll
+D:\ExerciciosFundamentos\obj\Debug\net9.0\refint\ExerciciosFundamentos.dll
+D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.pdb
+D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.genruntimeconfig.cache
+D:\ExerciciosFundamentos\obj\Debug\net9.0\ref\ExerciciosFundamentos.dll
