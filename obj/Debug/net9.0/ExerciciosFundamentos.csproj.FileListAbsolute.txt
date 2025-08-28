@@ -12,3 +12,4 @@ D:\ExerciciosFundamentos\obj\Debug\net9.0\refint\ExerciciosFundamentos.dll
 D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.pdb
 D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.genruntimeconfig.cache
 D:\ExerciciosFundamentos\obj\Debug\net9.0\ref\ExerciciosFundamentos.dll
+D:\ExerciciosFundamentos\obj\Debug\net9.0\ExerciciosFundamentos.sourcelink.json
